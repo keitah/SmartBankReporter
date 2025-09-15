@@ -1,0 +1,14 @@
+[
+  {
+    "id": "cbc7989d-2e09-438c-8eb6-502535358992",
+    "amount": 50.0,
+    "description": "кофей",
+    "type": "DEBIT"
+  },
+  {
+    "id": "65af9dfe-3d88-4483-8777-01ff42cf2486",
+    "amount": 500.0,
+    "description": "Зарплата",
+    "type": "DEPOSIT"
+  }
+]

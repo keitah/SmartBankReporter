@@ -1,0 +1,3 @@
+id,amount,description,type
+cbc7989d-2e09-438c-8eb6-502535358992,50.0,кофей,DEBIT
+65af9dfe-3d88-4483-8777-01ff42cf2486,500.0,Зарплата,DEPOSIT

@@ -1,0 +1,39 @@
+# ===================== #
+# OS-specific           #
+# ===================== #
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# ===================== #
+# IntelliJ IDEA         #
+# ===================== #
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# ===================== #
+# Gradle                #
+# ===================== #
+.gradle/
+build/
+out/
+
+# Wrapper logs
+gradlew.bat
+gradlew
+
+# ===================== #
+# Other IDE / Tools     #
+# ===================== #
+.vscode/
+*.swp
+*.swo
+
+# ===================== #
+# Project-specific      #
+# ===================== #
+/docker-data/
+/*.env
