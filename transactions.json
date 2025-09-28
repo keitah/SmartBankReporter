@@ -1,0 +1,14 @@
+[
+  {
+    "id": "0f4389f9-8ca3-401e-ba56-cef932e975cd",
+    "amount": 5000.0,
+    "description": "ЗП",
+    "type": "DEPOSIT"
+  },
+  {
+    "id": "bf1404f6-0d3b-479b-8471-a5b0689af5ce",
+    "amount": 5000.0,
+    "description": "ЗП",
+    "type": "DEPOSIT"
+  }
+]

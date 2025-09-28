@@ -1,0 +1,21 @@
+plugins {
+    id 'application'
+    id 'java'
+}
+
+repositories { mavenCentral() }
+
+dependencies {
+    implementation 'com.google.code.gson:gson:2.11.0'
+    implementation 'org.postgresql:postgresql:42.7.3'
+}
+
+application {
+    mainClass = 'me.keita.reporter.Main'
+}
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(21)
+    }
+}

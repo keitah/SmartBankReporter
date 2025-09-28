@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS transactions (
+  id VARCHAR(50) PRIMARY KEY,
+  amount NUMERIC(12,2) NOT NULL,
+  description TEXT,
+  type VARCHAR(10) NOT NULL,
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
